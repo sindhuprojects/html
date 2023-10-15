@@ -1,0 +1,97 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.demo{
+    background-image: url("https://img.freepik.com/free-vector/abstract-green-yellow-background_698452-626.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+
+}
+.demoa{
+    display:flex;
+    justify-content: space-around;
+    padding:200px 0px;
+}
+.demo1{
+    margin-left: -40px;
+    line-height: 40px;
+}
+.demo2{
+    margin-right: 60px;
+    line-height: 40px;
+    margin-left: -80px;
+}
+.demo3{
+    line-height: 40px;
+    margin-left: -120px;
+}
+.demo5{
+    position: relative;
+    padding-top: 10px;
+    margin-left: -210px;
+}
+.demo6{
+    position: relative;
+    padding-top: 10px;
+}
+.demo6 button{
+    margin-left: 150px;
+    border: none;
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3338.jpg?size=626&ext=jpg");
+
+}
+.demo7{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    width: 190px;
+    height: 10px;
+    position: absolute;
+}
+.a1{
+    position: absolute;
+    width: 290px;
+    height: 40px;
+    margin-left: 100px;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color:#32CD32;
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3338.jpg?size=626&ext=jpg");
+}
+.a2{
+    position: relative;
+    text-align: center;
+    margin-left: 310px;
+}
+.ab{
+    background: black;
+    color: antiquewhite;
+    width: 30px;
+    height: 21px;
+    text-align: center;
+    border-radius: 35px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.aq{
+    border-right: 2px solid black;
+    margin-left: 5px;
+}
+.e{
+    display: flex;
+    justify-content: space-around;
+}
+.e1{
+    margin-top: -230px;
+    margin-right: 410px;
+}
+.e2{
+    margin-top: -220px;
+}
+.aq1{
+    margin-left: 5px;
+}
