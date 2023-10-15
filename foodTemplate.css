@@ -1,0 +1,168 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.demo1{
+    padding-top: 20px;
+    background:white;
+    height: 50px;
+    padding-left: 100px;
+    position: fixed;
+    width: 100%;
+}
+.demo1 a{
+    text-decoration: none;
+    color: black;
+    margin-left: 80px;
+
+}
+.demo1 i{
+    margin-left: 10px;
+}
+.icn{
+    width: 20px;
+    height: 18px;
+    background: white;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 15px;
+    border: 2px solid black;
+}
+.demo2{
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2016%2F03%2F23%2F1605p73-grilled-hawaiian-bowl-2000.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding-top: 240px;
+    padding-left: 80px;
+}
+.demo3{
+    padding-top: 150px;
+    border: 2px solid black;
+    width: 540px;
+    height: 140px;
+    background: mediumvioletred;
+    opacity: 0.5;
+    padding-top: 30px;
+}
+.demo3 h1{
+    margin-left: 30px;
+    color: white;
+}
+.demo3 p{
+    color: white;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.demo4{
+    width: 100%;
+    height: 600px;
+    background-image: linear-gradient(45deg, deeppink, yellow);
+}
+.demo5{
+    padding-top: 20px;
+    height: 50px;
+    border-bottom: 2px solid black
+}
+.demo6 h3{
+    color: white;
+    margin-left: 410px;
+    font-size: 30px;
+}
+.demo7{
+    padding-top:30px;
+}
+.demo8{
+    height: 310px;
+    width: 280px;
+ border:2px solid black;
+ border-top-right-radius: 90px;
+ background: white;
+ margin-left: 70px;
+ border-bottom-left-radius: 40px;
+ border:none;
+}
+.demo8 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    padding-top: 20px;
+    border-top-right-radius: 90px;
+}
+.demo8 h2{
+    margin-left: 80px;
+    padding-top: 10px;
+}
+.demo8 p{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.demo9{
+    height: 310px;
+    width: 280px;
+ border:2px solid black;
+ border-top-right-radius: 90px;
+ background: white;
+ margin-left: 70px;
+ border-bottom-left-radius: 40px;
+ border:none;
+}
+.demo9 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    padding-top: 20px;
+    border-top-right-radius: 90px;
+}
+.demo9 h2{
+    margin-left: 80px;
+    padding-top: 10px;
+}
+.demo9 p{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.demo10{
+    height: 310px;
+    width: 280px;
+ border:2px solid black;
+ border-top-right-radius: 90px;
+ background: white;
+ margin-left: 70px;
+ border-bottom-left-radius: 40px;
+ border:none;
+}
+.demo10 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    padding-top: 20px;
+    border-top-right-radius: 90px;
+}
+.demo10 h2{
+    margin-left: 80px;
+    padding-top: 10px;
+}
+.demo10 p{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.demo7{
+    display:flex;
+    justify-content: space-around;
+}
+button{
+    margin-left: 460px;
+    margin-top: 70px;
+    width: 110px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    background: pink;
+}
+.demo6{
+    padding-top: 30px;
+}
