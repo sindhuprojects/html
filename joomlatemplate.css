@@ -1,0 +1,136 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.a3{
+    margin-left:190px;
+    height:25px;
+}
+.a2{
+    border:black 1px solid;
+    width: 1080px;
+    height: 40px;
+    padding-top:10px;
+    border:none;
+    background-color: orchid;
+
+}
+
+.a4{
+    border:none;
+    background-color: orchid;
+    margin-left:9px;
+
+}
+.b1{
+    border:black 1px solid;
+    width:1080px;
+    height:65px;
+    background-color: palevioletred;
+    border:none;
+
+}
+
+.b1 i{
+    font-size:40px;
+}
+.b1 h1{
+    font-size:45px;
+}
+.btn{
+    display:inline;
+    margin-left:500px;
+    padding-left:20px;
+}
+.btn1{
+   font-size:20px;
+   width:130px;
+   height:50px;
+   background-color: orange;
+   border:none;
+}
+.btn2{
+    font-size:20px;
+    width:130px;
+    height:50px;
+    background-color: blue;
+    border:none;
+}
+.c2{
+    border:2px solid black;
+    width:1080px;
+    height:40px;
+    padding-top: 10px;
+    background-color: blue;
+    border:none;
+
+}
+.c2 button{
+    font-size:20px;
+    margin-left:20px;
+    background-color: blue;
+
+}
+.c2 span{
+    margin-left:30px;
+}
+.d1{
+    border:2px solid black;
+    width:1080px;
+    height:500px;
+    background-image: url("1.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:10px;
+}
+.d1 h1{
+    height:100px;
+    padding-top:90px;
+    text-align:center;
+    color:white;
+}
+.d1 p{
+    height: 30px;
+    text-align:center;
+    color:white;
+    font-size:20px;
+
+}
+.qaz{
+    padding-top:40px;
+    margin-left:350px;
+}
+.qaz1{
+    font-size:15px;
+    width:100px;
+    height:50px;
+    background-color: blue;
+    color:white;
+    border:none;
+}
+.qaz2{
+    font-size:15px;
+    width:100px;
+    height:50px;
+    background-color: green;
+    color:white;
+    border:none;
+}
+.qaz3{
+    font-size:15px;
+    width:100px;
+    height:50px;
+    background-color: orange;
+    color:white;
+    border:none;
+
+}
+.qaz4{
+    font-size:15px;
+    width:100px;
+    height:50px;
+    background-color:orangered;
+    color:white;
+    border:none;
+
+}
