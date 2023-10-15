@@ -1,0 +1,105 @@
+
+.a1{
+    border:2px solid black;
+    width:530px;
+    height:500px;
+}
+.a2{
+    padding-top:10px;
+    height:50px;
+    
+}
+
+.a3{
+    border:2px solid black;
+    width:250px;
+    height:30px;
+    margin-left:10px;
+    padding-top:10px;
+    background-color: blue;
+    position:absolute;
+}
+.a3 i{
+    margin-left:20px;
+    position:relative;
+}
+.a3 span{
+    margin-left:50px;
+    text-align:center;
+
+}
+.a4{
+    border:2px solid black;
+    width:250px;
+    height:30px;
+    margin-left:270px;
+    padding-top:10px;
+    background-color: blue;
+    position:absolute;
+}
+.a4 i{
+    margin-left:20px;
+    position:relative;
+}
+.a4 span{
+    margin-left:50px;
+    text-align:center;
+
+}
+.ab{
+    padding-left:120px;
+    height:80px;
+}
+.a5{
+    height:60px;
+    display:flex;
+}
+.a5 img{
+    margin-left:10px;
+}
+
+.a5 p{
+    margin-left: 50px;
+    font-size:20px;
+
+}
+.a6{
+ display:flex;
+
+}
+.a7{
+    padding-top: 30px;
+    margin-left:10px;
+    position:relative;
+}
+.a7 input{
+    height:30px;
+    width:220px;
+}
+.a7 i{
+    margin-left:-190px;
+    font-size:15px;
+    text-align:center;
+    padding-top:7px;
+    position:absolute;
+}
+.a7 label{
+    font-size:15px;
+    margin-left:-130px;
+    position:relative;
+}
+.a8{
+    margin-left:10px;
+    position:relative;
+}
+.a8 label{
+    font-size:15px;
+    margin-left:-170px;
+    position:relative;
+}
+.a8 input{
+    width: 230px;
+    height: 30px;
+    margin-left:170px;
+    margin-top:30px;
+}
